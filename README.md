@@ -1,2 +1,2 @@
 # Intel-8080-Emulator
-Intel 8080 emulator (in Python)
+Intel 8080 emulator written on Python
