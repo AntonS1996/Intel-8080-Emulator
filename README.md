@@ -1,8 +1,10 @@
 # Intel-8080-Emulator
 Intel 8080 emulator written on Python
 
+Here is an example of program execution:
+
 <img src="https://github.com/AntonS1996/Intel-8080-Emulator/blob/master/i8080%20emulator/Output.png" alt="Example of work">
-# Example of work
+
 
 This program is written on Python.
 
